@@ -1,2 +1,6 @@
 /.venv
 /zzz.py
+*/__pycache__
+.env
+__pycache__
+__pycache__/*
