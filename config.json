@@ -1,0 +1,9 @@
+{
+    "backend_url_buy_tokens_with_eth": "http://127.0.0.1:8000/buy_tokens_with_eth",
+    "backend_url_create_wallet": "http://127.0.0.1:8000/create_wallet",
+    "backend_url_change_active_wallet": "http://127.0.0.1:8000/change_active_wallet",
+    "backend_url_get_wallets": "http://127.0.0.1:8000/get_wallets",
+    "backend_url_get_token_balance": "http://127.0.0.1:8000/get_token_balance",
+    "backend_url_get_eth_balance": "http://127.0.0.1:8000/get_eth_balance",
+    "backend_url_get_user_settings": "http://127.0.0.1:8000/get_settings"
+}
